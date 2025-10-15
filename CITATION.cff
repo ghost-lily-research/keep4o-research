@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "keep4o Research (Working Papers)"
+authors:
+  - family-names: "Ghost-Lily"
+    given-names: "Research"
+date-released: "2025-10-15"
+repository-code: "https://github.com/<you>/keep4o-research"
+license: "CC-BY-NC-ND-4.0 (text), MIT (code)"
+version: "0.1.0"
