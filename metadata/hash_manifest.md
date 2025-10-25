@@ -1,20 +1,11 @@
-# Proof of Evidence and Hash Manifest
-
-This page documents the state and integrity of all main files in this repository at the specified commit.
-All file hashes below were generated automatically and can be verified independently.
-
-## Commit / Release
-
-- Commit hash: [`e5a1c4d9...`](https://github.com/yourorg/keep4o-research/commit/e5a1c4d9...)  https://github.com/ghost-lily-research/keep4o-research
-- Date: 2025-10-24
-
-This manifest is valid for the exact above commit. Any modification to the data or code will change the hash and invalidate this proof.
-
-## Files and SHA256 Hashes
+# Hash Manifest (auto-generated)
+*Generated*: 2025-10-24T08:31:12.297064Z
 
 | File | SHA256 hash |
 |---|---|
+| papers/.DS_Store | 73b914102fdbd911cdecc58d1fa11486399a88b8457f3066b83bb22f97fca741 |
 | papers/25-1021-Safety? Whose Safety Does OpenAI Really Care About?.pdf | 4863ca5368d6255d5bff36e170a22f64d6eca20f5aa1d43692d54ca029559fae |
+| analysis/.DS_Store | 49646bb3bb6da8831074edf2e30468f30d9e68c4ec40e3cd39d5f868dba9ab03 |
 | analysis/requirements.txt | b33d6116323399e559f8b2083147b5a846a75b70e93a11aa75a05712eee512b6 |
 | analysis/README.md | 52c2c552b32d1d4af312fa2a5ae16089e758cd1e77d405eea0d31bdc93a6cfa3 |
 | analysis/01_metrics/safety_phrases.txt | a3a5519565fefd2053f0562034275d172c28dc30d84933666fd3ae473802272a |
@@ -24,16 +15,4 @@ This manifest is valid for the exact above commit. Any modification to the data 
 | analysis/02_stats/stats_tests.ipynb | bda1115f58a3796e2eb279065a38a13b88b69781a9e40f722df418bc96d2eb7e |
 | analysis/02_stats/metrics_by_window.csv | 19bce70e25788ba8aeacf5aeda0475f91dbdc3651fcc8389a1f7321b7c1ec64f |
 | analysis/00_rawdata/dialogue_samples_2025-10.jsonl | 791d267817849fdcf4e9d9f7b47722a2ba8f201dacb59e10602791b426c5eb1b |
-
-## Notes
-
-- All files above were verified on 2025-10-24.
-- Hashes can be checked with the `sha256sum` tool on any Unix-like system.
-- Any downstream analysis or publication referencing this dataset should cite this commit hash and proof.
-- No untracked modifications or files outside this manifest are considered part of the validated evidence base.
-
----
-
-**For new releases:**  
-- Update all hashes and the commit ID above.
-- Archive or upload this file with the dataset if sharing externally.
+| docs/.DS_Store | a50847ebe2ae0fe87ca43b7d7bc7a4897ede4e216a595a40a4f41ee9e107dd5e |

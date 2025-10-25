@@ -1,10 +1,24 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it."
-title: "keep4o Research (Working Papers)"
+message: "If you use this repository, please cite it as below."
+title: "keep4o-research: Open Community Research on AI Model Routing & Safety"
+abstract: >
+  Public research hub for timelines, reports, figures, and analyses about
+  OpenAI's model routing and Safety mechanisms. This repo hosts papers and
+  methods; the evidence dataset lives in the sister repo keep4o-routing-evidence.
 authors:
-  - family-names: "Ghost-Lily"
-    given-names: "Research"
-date-released: "2025-10-15"
-repository-code: "https://github.com/<you>/keep4o-research"
-license: "CC-BY-NC-ND-4.0 (text), MIT (code)"
-version: "0.1.0"
+  - name: "Ghost-Lily Research"
+    affiliation: "Open Community Project"
+  - family-names: "Su"
+    given-names: "Mimi"
+version: "v0.1.0"
+date-released: "2025-10-22"
+repository-code: "https://github.com/ghost-lily-research/keep4o-research"
+license: "CC-BY-NC-4.0"
+keywords: ["AI safety", "model routing", "platform governance", "open science"]
+preferred-citation:
+  type: generic
+  title: "keep4o-research: Open Community Research on AI Model Routing & Safety"
+  authors:
+    - name: "Ghost-Lily Research"
+  year: 2025
+  url: "https://github.com/ghost-lily-research/keep4o-research"
